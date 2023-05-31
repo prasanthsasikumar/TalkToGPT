@@ -2,7 +2,7 @@
 
 TalkToGPT is a project that brings a Virtual Chat GPT assistant to life, allowing users to interact with it by simply pressing a physical button. This assistant listens to the user, responds back, and aims to create a conversational experience.
 
-![combined](https://github.com/prasanthsasikumar/TalkToGPT/blob/main/Images/combined.png?raw=true)
+![combined](https://github.com/prasanthsasikumar/TalkToGPT/blob/main/Images/combined.jpg?raw=true)
 
 
 Here is a working video: https://youtube.com/shorts/8U4MYI8BbWE?feature=share
