@@ -1,0 +1,13 @@
+audio-recorder
+speech-to-text
+google-cloud-speech
+openai
+keyboard
+text-to-speech
+tcp
+sounddevice
+soundfile
+pyaudio
+wave
+socket
+pyttsx3
